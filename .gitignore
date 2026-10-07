@@ -1,0 +1,13 @@
+# Local skills and review sessions
+.agents/
+.lavish/
+skills-lock.json
+
+# Earlier experimental prompts; README.md is the canonical prompt
+prompts/
+
+# Local editor and operating system files
+.DS_Store
+Thumbs.db
+*.swp
+*~
